@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 5335a233714d17a49b55cd154e50c52a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fire_Swing_0
+  - first:
+      213: 21300002
+    second: Fire_Swing_1
+  - first:
+      213: 21300004
+    second: Fire_Swing_2
+  - first:
+      213: 21300006
+    second: Fire_Swing_3
+  - first:
+      213: 21300008
+    second: Fire_Swing_4
+  - first:
+      213: 21300010
+    second: Fire_Swing_5
+  - first:
+      213: 21300012
+    second: Fire_Swing_6
+  - first:
+      213: 21300014
+    second: Fire_Swing_7
+  - first:
+      213: 21300016
+    second: Fire_Swing_8
+  - first:
+      213: 21300018
+    second: Fire_Swing_9
+  - first:
+      213: 21300020
+    second: Fire_Swing_10
+  - first:
+      213: 21300022
+    second: Fire_Swing_11
+  - first:
+      213: 21300024
+    second: Fire_Swing_12
+  - first:
+      213: 21300026
+    second: Fire_Swing_13
+  - first:
+      213: 21300028
+    second: Fire_Swing_14
+  - first:
+      213: 21300030
+    second: Fire_Swing_15
+  - first:
+      213: 21300032
+    second: Fire_Swing_16
+  - first:
+      213: 21300034
+    second: Fire_Swing_17
+  - first:
+      213: 21300036
+    second: Fire_Swing_18
+  - first:
+      213: 21300038
+    second: Fire_Swing_19
+  - first:
+      213: 21300040
+    second: Fire_Swing_20
+  - first:
+      213: 21300042
+    second: Fire_Swing_21
+  - first:
+      213: 21300044
+    second: Fire_Swing_22
+  - first:
+      213: 21300046
+    second: Fire_Swing_23
+  - first:
+      213: 21300048
+    second: Fire_Swing_24
+  - first:
+      213: 21300050
+    second: Fire_Swing_25
+  - first:
+      213: 21300052
+    second: Fire_Swing_26
+  - first:
+      213: 21300054
+    second: Fire_Swing_27
+  - first:
+      213: 21300056
+    second: Fire_Swing_28
+  - first:
+      213: 21300058
+    second: Fire_Swing_29
+  - first:
+      213: 21300060
+    second: Fire_Swing_30
+  - first:
+      213: 21300062
+    second: Fire_Swing_31
+  - first:
+      213: 21300064
+    second: Fire_Swing_32
+  - first:
+      213: 21300066
+    second: Fire_Swing_33
+  - first:
+      213: 21300068
+    second: Fire_Swing_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Swing_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1080
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c316592d807884fce86cb479830005d2
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1080
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7efd5c7588724dde84871576f903319
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_2
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1080
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d80ef07684445b0adc12197d91e6ef
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_3
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1080
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084ffdb6182cd46a6aaf803fb95e927c
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_4
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1080
+        width: 156
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0874b5220307478fa244c4265ce2d33
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1080
+        width: 161
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e0718ca7b6b468ba9bd3905cc33601
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1080
+        width: 161
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d15f4563b72e49e5b1c99ff20daab80
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 161
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef1b31f3dc9a4964abcf03aac06cd19
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 824
+        width: 167
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a762ebe45444205b94e83daa6b745d
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 824
+        width: 167
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ab467bbb1f74e8f8f3db770efc0af5
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 824
+        width: 160
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45296368775e94baa9678c39d7b59761
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_11
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 824
+        width: 160
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ec3e82ed03c4749a57060c3a86cf0f
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 825
+        width: 161
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240b40873df0644dd908fc02a26fdc2f
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_13
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 825
+        width: 160
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3286484ab467b4376b21ff835913e24d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 569
+        width: 172
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ea7278db7a24e2a9340e160a7538ec
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_15
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 569
+        width: 183
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c084174c66fe64b1196eca166ac9ed44
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_16
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 569
+        width: 159
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc6300d4fd0e46d2a098139b21e90e5
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_17
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 569
+        width: 142
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdf388cb73514cdaa4e1c7cb7254b31
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_18
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 569
+        width: 136
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc2f4906004045f4a4645df4da914fb
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_19
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 569
+        width: 133
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9a680c65b6c41e9929a9349e402493
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_20
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 569
+        width: 130
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97217c4bb7ac4d73ba21a0a9f7b58ec
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 313
+        width: 133
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550a54ea8151a47468656adee60b6d7f
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 313
+        width: 130
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61e8d48354fb4a139c3a1e42e30258f
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_23
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 313
+        width: 116
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded76f645d2114c5eae7137e6fbd4844
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_24
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 313
+        width: 77
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f81054d2edc4a86af5087ff07489ba
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_25
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 313
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051013dd254944ff4af0276ce0496fd8
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_26
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 312
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2a5aa2a117c426a8ad945baba85361
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_27
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 312
+        width: 109
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d5964b410f64f4ca15c07d616a5264
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 56
+        width: 102
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02b845c730cf4ee09e55646e2a376e5
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 56
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a261453aad948dcab2b7788e30af18
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_30
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 56
+        width: 94
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4060d1d9b6e154e69aa33f786c2e087c
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_31
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 56
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4948643283892467ebaf0acf7930fc70
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_32
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 56
+        width: 87
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b8c1b10b45242fcad26de069405367
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_33
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 56
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7857bcc21f63d4e87a61fb9aedd6b236
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Swing_34
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 56
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80140191cdf1445b4a0c3f974e727de9
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6deca5cad7664af4796e560b8f33c1f1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire_Swing_0: 21300000
+      Fire_Swing_1: 21300002
+      Fire_Swing_10: 21300020
+      Fire_Swing_11: 21300022
+      Fire_Swing_12: 21300024
+      Fire_Swing_13: 21300026
+      Fire_Swing_14: 21300028
+      Fire_Swing_15: 21300030
+      Fire_Swing_16: 21300032
+      Fire_Swing_17: 21300034
+      Fire_Swing_18: 21300036
+      Fire_Swing_19: 21300038
+      Fire_Swing_2: 21300004
+      Fire_Swing_20: 21300040
+      Fire_Swing_21: 21300042
+      Fire_Swing_22: 21300044
+      Fire_Swing_23: 21300046
+      Fire_Swing_24: 21300048
+      Fire_Swing_25: 21300050
+      Fire_Swing_26: 21300052
+      Fire_Swing_27: 21300054
+      Fire_Swing_28: 21300056
+      Fire_Swing_29: 21300058
+      Fire_Swing_3: 21300006
+      Fire_Swing_30: 21300060
+      Fire_Swing_31: 21300062
+      Fire_Swing_32: 21300064
+      Fire_Swing_33: 21300066
+      Fire_Swing_34: 21300068
+      Fire_Swing_4: 21300008
+      Fire_Swing_5: 21300010
+      Fire_Swing_6: 21300012
+      Fire_Swing_7: 21300014
+      Fire_Swing_8: 21300016
+      Fire_Swing_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
